@@ -1,0 +1,39 @@
+ *{
+            font-family: tahoma;
+        }
+        .container{
+            margin-top:20px;
+            margin:0 auto;
+            padding: 0;
+            font-family: tahoma;
+            border:1px solid black;
+            width:700px;
+            height:450px;
+            border-radius: 5px;
+        }
+        h1{
+            margin-top: -120px;
+            margin-left: -320px;
+            
+        }
+        img{
+            height:180px;
+            margin-left: 170px;
+        }
+        input{
+            width:250px;
+            height:30px;
+                font-size: 17px;
+        }
+        table{
+            margin-top: 30px;
+        }
+        button{
+            width:258px;
+            height:32px;
+            background-color: #5d98f0;
+            border:#5d98f0;
+            border-radius: 2px;
+            color:white;
+           
+        }

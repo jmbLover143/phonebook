@@ -1,0 +1,97 @@
+*{
+            font-family: tahoma;
+        }
+        .container{
+            margin-top:20px;
+            margin:0 auto;
+            padding: 0;
+            font-family: tahoma;
+            border:1px solid black;
+            width:1350px;
+            height:600px;
+            border-radius: 5px;
+        }
+        .head{
+            width: auto;
+            text-align: center;
+            background-color: whitesmoke;
+            color:black;
+            height:30px;
+         }
+        textarea{
+            width:300px;
+        }
+        h1{
+            float:left;
+            margin-top: 50px;
+            margin-left: 20px
+            
+        }
+        .add{
+            float:right;
+            margin-left: -180px;
+            
+        }
+        img{
+            height:150px;
+            float:left;
+            width:150px;
+            
+        }
+        .tabs{
+            float:right;
+            margin-top: 60px;
+            width:190px;
+        }
+        
+        input{
+            width:340px;
+            height:30px;
+                font-size: 17px;
+        }
+        .hold{
+            height: 450px;
+            width:1320px;
+            overflow: scroll;
+            margin: 0 auto;
+        }
+        table{
+             margin-left: -200px;
+            overflow: scroll;
+            margin: 0 auto;
+            border:1px solid black;
+             
+         }
+         .zoom {
+ 
+          transition: transform .3s; /* Animation */
+ 
+         margin: 0 auto;
+        }
+        tr{
+            text-align: center;
+            border:1px solid black;
+            
+        }
+        .zoom:hover {
+                transform: scale(4.2);
+                 
+                /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+            }
+             tr:hover{
+                background-color: whitesmoke;
+            }
+        button{
+            width:140px;
+            height:32px;
+            background-color: #5d98f0;
+            border:#5d98f0;
+            border-radius: 0px;
+            color:white;
+        }
+        tr,td{
+            border:1px solid black;
+        }
+        button:hover{
+            background-color: #4bc5eb;
+        }

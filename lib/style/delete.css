@@ -1,0 +1,67 @@
+*{
+            font-family: tahoma;
+        }
+        .container{
+            margin-top:20px;
+            margin:0 auto;
+            padding: 0;
+            font-family: tahoma;
+            border:1px solid black;
+            width:950px;
+            height:550px;
+            border-radius: 5px;
+        }
+        textarea{
+            width:300px;
+        }
+        h1{
+            float:left;
+            margin-top: 50px;
+            margin-left: 20px
+            
+        }
+        .add{
+            float:right;
+            margin-left: -80px;
+            
+            
+        }
+        a{
+           text-decoration: none;
+        }
+        img{
+            height:150px;
+            float:left;
+            width:150px;
+            
+        }
+        .tabs{
+            float:right;
+            margin-top: 60px;
+            width:190px;
+        }
+        p{
+            margin-top: 100px;
+            color: red;
+        }
+        input{
+            width:340px;
+            height:30px;
+                font-size: 17px;
+        }
+        table{
+            margin-top: 150px;
+            margin-left: -200px;
+         }
+        button{
+            width:140px;
+            height:32px;
+            background-color: #5d98f0;
+            border:#5d98f0;
+            border-radius: 0px;
+            color:white;
+        }
+        
+        button:hover{
+            background-color: #4bc5eb;
+        }
